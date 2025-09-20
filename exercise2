@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+  <meta charset="UTF-8">
+  <title>CSS Table and Form</title>
+  <link rel="stylesheet" href="styles3.css">
+</head>
+<body>
+  <h1 id="page-title">Student Grades</h1>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Subject</th>
+        <th>Grade</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td rowspan="2">Student1</td>
+        <td>Calculus</td>
+        <td>A</td>
+      </tr>
+      <tr>
+        <td>Algorithms and Data Structure</td>
+        <td>B+</td>
+      </tr>
+      <tr class="highlight-row">
+        <td>Student2</td>
+        <td colspan="2">Excellent in all subjects</td>
+      </tr>
+      <tr>
+        <td rowspan="2">Student3/td>
+        <td>Math</td>
+        <td>B</td>
+      </tr>
+      <tr>
+        <td>Algorithms and Data Structure</td>
+        <td>B+</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h2>Feedback Form:</h2>
+  <form id="feedback-form">
+    <label for="name">Name:</label><br>
+    <input type="text" id="name" name="name"><br><br>
+
+    <label for="email">Email:</label><br>
+    <input type="email" id="email" name="email"><br><br>
+
+    <label for="role">Role:</label><br>
+    <select id="role" name="role">
+      <option>Student</option>
+      <option>Teacher</option>
+      <option>Other</option>
+    </select><br><br>
+
+    <label>Are you over 18?</label><br>
+    <input type="radio" id="yes" name="like" value="Yes">
+    <label for="yes">Yes</label>
+    <input type="radio" id="no" name="like" value="No">
+    <label for="no">No</label><br><br>
+
+    <label for="comments">Comments:</label><br>
+    <textarea id="comments" name="comments" rows="4"></textarea><br><br>
+
+    <button type="submit" class="submit-btn">Submit</button>
+  </form>
+
+</body>
+</html>
