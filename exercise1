@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="styles.css">
+        <title>Tribute to Michael Jackson</title>
+    </head>
+    <body>
+        <header><h1>Tribute to Michael Jackson</h1></header>
+        <div><table>
+            <tr>
+                <td><img id="mj_img" src="michael_jackson.jpg" alt="Michael Jackson"></td>
+                <td><div style="font-family: Arial, Helvetica, sans-serif; text-align: center; color: darkblue;"><h2>About Michael Jackson</h2></div>
+                    <div class="info"><p> Michael Joseph Jackson (August 29, 1958 – June 25, 2009) was an American singer, 
+                        songwriter, dancer, and philanthropist. Dubbed the "King of Pop",
+                        he is widely regarded as one of the most culturally significant figures of the 20th century.
+                        Over a four-decade career, his music achievements broke racial barriers in 
+                        America and made him a dominant figure worldwide. Through his songs, stages, and fashion,
+                        he proliferated visual performance for artists in popular music, popularizing street dance 
+                        moves such as the moonwalk, the robot and the anti-gravity lean. Jackson is often 
+                        deemed the greatest entertainer of all time based on his acclaim and records...
+                        <a href="https://en.wikipedia.org/wiki/Michael_Jackson">Learn more</a>
+                        <br>
+                        <span class="icon"><a href="https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm?si=6Yg8ShPaQduVFyGuvQqxLQ"><img src="spotify.png" width="20" alt="Spotify">Listen on Spotify</a></span>
+                        <span class="icon"><a href="https://music.apple.com/kz/artist/michael-jackson/32940"><img src="apple_music.png" width="20" alt="Apple Music">Listen on Apple Music</a></span>
+                    </p></div>
+                </td>
+            </tr>
+        </table></div>
+        <div><ol>
+            <h3>Main life events:</h3>
+            <li>Michael Jackson was born on August 29, 1958, in Gary, Indiana.</li>
+            <li>He began performing at a young age with his brothers in the Jackson 5.</li>
+            <li>In 1982, he released Thriller, which became the best-selling album of all time.</li>
+            <li>His famous dance move, the “moonwalk,” debuted in 1983.</li>
+            <li>He was called the “King of Pop” for his influence on music and performance.</li>
+            <li>Michael Jackson died on June 25, 2009, in Los Angeles.</li>
+        </ol></div>
+        <div><ul>
+            <h3>Main contributions:</h3>
+            <li>Revolutionized music videos – with iconic works like Thriller, Beat It, and Billie Jean, 
+                he turned music videos into mini-movies.</li>
+            <li>Popularized the moonwalk – a dance move that became his signature and influenced generations of dancers.</li>
+            <li>Broke racial barriers – he was the first Black artist to gain heavy rotation on MTV, opening doors for others.</li>
+            <li>Humanitarian work – he supported many charities and raised millions for 
+                causes like children’s health and disaster relief.</li>
+        </ul></div>
+        <div class="footer">
+            &copy; 2025 My Website | All rights reserved
+        </div>
+    </body>
+</html>
