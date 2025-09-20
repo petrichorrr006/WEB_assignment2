@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Wireframe</title>
+    </head>
+    <body>
+        <style>
+            img {
+                max-width: 1000px;
+                width: 100%;
+                margin: 25px
+            }
+        </style>
+        <h3>Flight Reservation Systems is built to book airplane tickets, track your tickets info, see popular and profitable destionations and etc. The target users is a wide audience from frequently-travelling people, to those who never been on plane and want to book ticket in a simple and beneficial way.  </h3>
+        <img src="main page.png">
+        <img src="account.png">
+        <img src="popular.png">
+        <img src="booking.png">
+        <img src="ticket.png">
+    </body>
+</html>
