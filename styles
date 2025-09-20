@@ -1,0 +1,77 @@
+.header {
+    color: white;
+    background-color: navy;
+    text-align: center;
+    padding: 20px;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navigation_bar {
+  background-color: skyblue;
+  padding: 9px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.container {
+      margin: 20px;
+      overflow: hidden;
+}
+
+.sidebar {
+      float: left;
+      width: 25%;
+      background-color: whitesmoke;
+      padding: 15px;
+      box-sizing: border-box;
+      border: 1px solid rgb(203, 206, 209);
+}
+
+.main {
+      float: right;
+      width: 74%;
+      padding: 15px;
+      padding-bottom: 51px;
+      box-sizing: border-box;
+      border: 1px solid rgb(203, 206, 209);
+}
+
+.footer {
+      background-color: navy;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      margin-top: 20px;
+      position: fixed;
+      bottom: 20px;
+      right: 0;
+      width: 100%;
+}
+
+.nav_link a:link {
+  padding: 7px;
+  color: navy;
+}
+
+.nav_link a:visited {
+  padding: 7px;
+  color: navy;
+}
+
+#task1 a:link {
+  padding: 7px;
+  border-radius: 10px;
+  background-color: navy;
+  color: whitesmoke;
+}
+
+#task1 a:visited {
+  padding: 7px;
+  border-radius: 10px;
+  background-color: navy;
+  color: whitesmoke;
+}
