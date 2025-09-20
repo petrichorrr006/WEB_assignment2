@@ -9,9 +9,9 @@
         <div class="header"><h1>My Website</h1></div>
         <div class="navigation_bar">
             <span id="task1"><a href="assignment2.html"><h7>Task №1</h7></a></span>
-            <span class="nav_link"><a href="C:\Users\User\exercise1\index.html"><h7>Task №2</h7></a></span>
-            <span class="nav_link"><a href="C:\Users\User\exercise2\index.html"><h7>Task №3</h7></a></span>
-            <span class="nav_link"><a href="C:\Users\User\exercise3\index.html"><h7>Task №4</h7></a></span>
+            <span class="nav_link"><a href="C:\Users\User\exercise1\exercise1.html"><h7>Task №2</h7></a></span>
+            <span class="nav_link"><a href="C:\Users\User\exercise2\exercise2.html"><h7>Task №3</h7></a></span>
+            <span class="nav_link"><a href="C:\Users\User\exercise3\exercise3.html"><h7>Task №4</h7></a></span>
         </div>
         <div class="container">
             <div class="sidebar">
