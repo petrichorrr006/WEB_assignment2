@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    background-color: whitesmoke;
+}
+
+#mj_img {
+    max-width: 300px;
+    width: 100%;
+    border-radius: 8px;
+    margin-left: 10px;
+}
+
+.icon {
+    max-width: 20px;
+    width: 100%;
+    margin: 5px;
+}
+
+header {
+    background-color: navy;
+    text-align: center;
+    color: white;
+    padding: 2px;
+}
+
+
+.info p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    max-width: 500px;
+    width: 100%;
+    margin: 30px;
+}
+
+table {
+    background-color: white;
+    max-width: 850px;
+    margin: 20px auto;
+    padding: 40px;
+    border-radius: 8px;
+}
+
+.footer {
+      background-color: navy;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      width: 100%;
+}
+
+ol, ul {
+  text-align: left;
+  max-width: 800px;
+  margin: 20px auto;
+  background-color: white;
+  padding: 25px;
+  padding-top: 5px;
+  border-radius: 8px;
+}
+
+ol li, ul li {
+  margin-bottom: 8px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a:link {
+    color: turquoise;
+    font-weight: bold;
+}
+
+a:hover {
+  color: lightskyblue;
+}
+
+a:visited {
+  color: navy;
+}
